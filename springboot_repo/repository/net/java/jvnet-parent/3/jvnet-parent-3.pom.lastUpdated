@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jun 23 00:05:22 CST 2020
+http\://download.java.net/maven/glassfish/.lastUpdated=1592841922457
+http\://download.java.net/maven/glassfish/.error=
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1592841697553
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact net.java\:jvnet-parent\:pom\:3 from/to central (https\://repo.maven.apache.org/maven2)\: GET request of\: net/java/jvnet-parent/3/jvnet-parent-3.pom from central failed
